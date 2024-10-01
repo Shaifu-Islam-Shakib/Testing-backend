@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 heloo woeld
+=======
+this is habijabi
+>>>>>>> 9e362ad (first commit)
